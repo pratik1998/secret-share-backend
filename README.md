@@ -11,10 +11,10 @@ The main features of SafeSecretShare will include
 - Limit the number of times data can be viewed
 - Provide users with an access log for their sensitive data
 
-# Requirements
+## Requirements
 `Golang`
 
-# Installation
+## Installation
 
 1. Download the git repository: 
 `git clone https://github.com/pratik1998/secret-share-backend.git`
@@ -25,6 +25,6 @@ The main features of SafeSecretShare will include
 3. Start web server 
 `go run .`
 
-References:
+## References:
 - https://wormhole.app/ 
 - https://github.com/restuwahyu13/go-rest-api
